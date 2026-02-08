@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tulachand (Sujan) Meher
+# Hi there 👋, I'm Tulachand Meher
 
 💻 **Full Stack Java Developer | Frontend Developer | Spring Boot Enthusiast**
 
