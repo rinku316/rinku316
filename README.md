@@ -6,7 +6,7 @@
 
 🚀 Passionate about building scalable web applications, backend systems, and modern user experiences.
 
-📍 Odisha, India 🇮🇳
+📍 Banglore, India
 
 </div>
 
