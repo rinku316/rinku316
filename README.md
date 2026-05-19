@@ -1,96 +1,140 @@
-# Hi there 👋, I'm Tulachand Meher
+Hi there 👋, I'm Tulachand Meher
 
-💻 **Full Stack Java Developer | Frontend Developer | Spring Boot Enthusiast**
+💻 Full Stack Java Developer | Spring Boot Developer | Frontend Developer | AI Enthusiast
 
-Welcome to my GitHub! I'm a passionate developer from Odisha, India 🇮🇳, continuously learning and building real-world applications using modern web technologies. I enjoy combining strong frontend skills with powerful Java backend development.
+Welcome to my GitHub! I'm a passionate developer from Odisha, India 🇮🇳, focused on building scalable full-stack applications using Java technologies and modern frontend tools. I enjoy solving real-world problems through clean backend architecture, responsive UI design, and AI-powered applications.
 
----
+🚀 About Me
+🌱 Currently learning Advanced Spring Boot, React.js, Microservices & AI Integration
+💻 Passionate about building real-world full-stack applications
+⚡ Strong interest in backend development, REST APIs, databases & scalable architecture
+🤖 Exploring AI-powered applications & chatbot systems
+🎯 Focused on writing clean, maintainable, and production-ready code
+❤️ Proudly representing Western Odisha culture through technology & projects
+🛠️ Tech Stack & Skills
+🎨 Frontend Development
+HTML5
+CSS3
+JavaScript (ES6+)
+React.js
+Responsive Web Design
+⚙️ Backend Development
+Core Java
+OOP Concepts
+Exception Handling
+Collections Framework
+Multithreading
+Lambda Expressions
+Stream API
+Advanced Java
+JDBC
+Servlet Basics
+REST API Development
+🚀 Frameworks & Tools
+Spring Framework
+Spring Boot
+Hibernate (ORM)
+Maven
+RESTful APIs
+🗄️ Database
+MySQL
+🔧 Developer Tools
+Git & GitHub
+STS (Spring Tool Suite)
+Eclipse IDE
+VS Code
+Postman
+💼 Featured Projects
+🛒 Safta – E-Commerce Full Stack Application
 
-## 🚀 About Me
+A modern full-stack e-commerce platform built using Java Spring Boot and frontend technologies.
 
-* 🌱 Currently learning **React.js & advanced Spring Boot development**
-* 💻 Building full-stack applications using Java ecosystem
-* 🎯 Focused on writing clean, scalable, and maintainable code
-* ❤️ Interested in modern web development & backend architecture
+Features
+User Authentication & Authorization
+Product Management
+Shopping Cart & Order Management
+REST API Integration
+Database Connectivity with MySQL
+Responsive UI Design
+Tech Used
 
----
+Java Spring Boot Hibernate MySQL HTML CSS JavaScript
 
-## 🛠️ Tech Stack & Skills
+🤖 AI Banking Chatbot System
 
-### 🎨 Frontend Development
+An intelligent banking assistant chatbot designed to automate customer support and improve banking interactions.
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js (Learning)
-* Responsive Web Design
+Features
+AI-based customer query handling
+Banking FAQ support
+REST API communication
+Backend business logic using Spring Boot
+Scalable chatbot architecture
+Tech Used
 
-### ⚙️ Backend Development (Java)
+Java Spring Boot REST API MySQL AI Concepts
 
-* Core Java
+🎨 Frontend Projects
+🌐 Personal Portfolio Website
 
-  * Data Types
-  * OOP Concepts
-  * Inner Classes
-  * Lambda Expressions
-* Advanced Java
+A modern responsive portfolio website showcasing my skills, projects, resume, and developer journey.
 
-  * Collections Framework
-  * Multithreading
-  * Exception Handling
-  * JDBC
+Features
+Fully Responsive Design
+Modern UI/UX
+Skills & Project Showcase
+Contact Section
+Smooth Navigation
+Tech Used
 
-### 🚀 Frameworks & Tools
+HTML CSS JavaScript
 
-* Spring Framework
-* Spring Boot
-* Hibernate (ORM)
-* REST API basics
+⚡ Momentum Web Application
 
-### 🗄️ Database
+A productivity and motivational web application inspired by modern dashboard experiences.
 
-* MySQL
+Features
+Dynamic Greeting System
+Real-Time Clock
+Motivational Quotes
+To-Do Functionality
+Clean & Interactive UI
+Tech Used
 
-### 🔧 Version Control & Tools
+HTML CSS JavaScript
 
-* Git
-* GitHub
-* STS (Spring Tool Suite)
-* Eclipse
+☕ Employee Management System
 
----
+A full-stack employee management application with CRUD operations and database integration.
 
-## 💼 Projects
+Features
+Employee Record Management
+CRUD Operations
+JDBC/Hibernate Integration
+Backend Service Layer
+Tech Used
 
-### ☕ Java / Backend Projects
+Java Spring Boot Hibernate MySQL
 
-* **Employee Management System** – Full-stack Java application with database integration using JDBC/Hibernate & Spring concepts.
+📚 Currently Learning
+Advanced Spring Boot
+React.js
+Microservices Architecture
+JWT Authentication
+AI Integration in Web Applications
+Deployment & Cloud Basics
+🌍 From Odisha, India
 
-### 🎨 Frontend Projects
+Proudly showcasing the culture, creativity, and talent of Western Odisha through technology ✨
 
-* **TulachandPortfolio** – Personal portfolio website showcasing my work.
-* **sambalpuri_bazar** – Tribute to beautiful Sambalpuri sarees & traditional wear ❤️
-* **MyFirstWebsite** – My first biodata/resume page.
-* **jwellery** – Simple jewelry showcase website.
+📫 Connect With Me
+📧 Email: tulachandmeher8260@gmail.com
+💼 LinkedIn: LinkedIn Profile
+🐙 GitHub: GitHub Profile
+📈 Career Goal
 
----
+Aspiring to become a highly skilled Java Full Stack Developer and contribute to impactful software products, scalable backend systems, and AI-driven applications.
 
-## 🌍 From Odisha, India
-
-Proudly representing Western Odisha culture through my projects ✨
-
----
-
-## 📫 Connect With Me
-
-*📧 Email: tulachandmeher8260@gmail.com
-*💼 LinkedIn: https://www.linkedin.com/in/tulachand16/
-*🐙 GitHub: https://github.com/rinku316
-
----
-
-> 🚀 “Keep coding, keep learning, keep growing.”
+🚀 “Keep coding, keep learning, keep growing.”
 
 Thanks for visiting my profile! Feel free to explore my repositories and star ⭐ the ones you like.
-
----
